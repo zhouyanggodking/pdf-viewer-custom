@@ -1,0 +1,22 @@
+{
+  "name": "pdf-viewer-custom",
+  "version": "1.0.0",
+  "description": "pdf-viewer customization draft version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouyanggodking/pdf-viewer-custom.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhouyanggodking/pdf-viewer-custom/issues"
+  },
+  "homepage": "https://github.com/zhouyanggodking/pdf-viewer-custom#readme",
+  "dependencies": {
+    "pdfjs-dist": "^2.1.266"
+  }
+}
