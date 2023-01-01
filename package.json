@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/zhouyanggodking/pdf-viewer-custom#readme",
   "dependencies": {
-    "pdfjs-dist": "^2.1.266"
+    "pdfjs-dist": "^2.16.105"
   }
 }
